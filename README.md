@@ -34,7 +34,10 @@ overview .
      
      ``` sudo python main.py httplsnr ```
 
-
+### Links 
++ https://typer.tiangolo.com/
++ https://www.youtube.com/watch?v=WGJC5vT5YJo&list=PL6gx4Cwl9DGDdduy0IPDDHYnUx66Vc4ed&index=1
++ https://systemweakness.com/creating-an-advanced-network-packet-sniffer-in-python-a-step-by-step-guide-9fe51e781c64
 
    
 ### Contributing
