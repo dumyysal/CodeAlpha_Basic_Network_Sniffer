@@ -23,10 +23,15 @@ overview .
   
 ### Usage
 1. Clone the repository to your local machine.
-2- Two available commands :
+   
+2. Two available commands :
+
    - netsniff :  It captures and displays network packets on the terminal.
+     
      ``` sudo python main.py netsniff ```
+     
    - httplsnr :  It listens for incoming HTTP requests and logs them.
+     
      ``` sudo python main.py httplsnr ```
 
 
