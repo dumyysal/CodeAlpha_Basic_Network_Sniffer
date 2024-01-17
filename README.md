@@ -14,7 +14,7 @@ overview .
 - Python 3.x
 - Privileged/Administrative Rights
 - Linux Operating System
-- 'Typer' 0.9.0
+- Typer 0.9.0
 
 ### Features
 - Capture Packets
