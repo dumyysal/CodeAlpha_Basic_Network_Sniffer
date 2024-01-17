@@ -1,9 +1,12 @@
 # CodeAlpha_Basic_Network_Sniffer_Task1
 
-## CLI Packet Sniffer in Python
+## CLI Packet Sniffer in Python ( SAL SNIFFER )
 ### Overview
 This repository contains the code for a basic Command Line Interface (CLI) Packet Sniffer developed during my Task 1 of my cybersecuirty CodeAlpha internship 
-overview
+overview .
+![image]
+
+
 ### Requirements 
 - Python 3.x
 - Privileged/Administrative Rights
