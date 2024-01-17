@@ -11,9 +11,9 @@ overview
 - Typer 0.9.0
 
 ### Features
-- ** Capture Packets
-- ** Display Packet Information ( IPv6 / TCP / UDP / ICMP )
-- ** Extract HTTP raw data
+** Capture Packets
+** Display Packet Information ( IPv6 / TCP / UDP / ICMP )
+** Extract HTTP raw data
   
 ### Usage
 1. Clone the repository to your local machine.
